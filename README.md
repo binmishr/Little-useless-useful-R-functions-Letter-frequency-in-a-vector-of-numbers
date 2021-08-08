@@ -1,0 +1,1 @@
+# Little-useless-useful-R-functions-Letter-frequency-in-a-vector-of-numbers
